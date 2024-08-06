@@ -76,7 +76,7 @@ _En constante aprendizaje, aprendiendo nuevas habilidades y mejorando en algunas
 <a href="https://github.com/adrianbl1" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://linkedin.com/in/adrianbl" target="_blank">
+<a href="https://linkedin.com/in/adrian-bl" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 <a href="https://codepen.com/adrianbl" target="_blank">
