@@ -111,20 +111,24 @@ _NOTA: Los valores se calculan utilizando la función de distribución acumulada
 
 <br/>  
 
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=adrianbl1&&style=flat-square" align="center" />
+<div align="center" style="
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    ">
+    <img src="img/logo/v1/adrianbl.png" width="30%" style="margin: 10px;"/>
+    <img src="img/logo/v2/adrianbl.png" width="30%" style="margin: 10px;"/>
 </div>  
   
 
 <br/>  
 
 <div align="center">
-            <a href="https://paypal.me/adrianbl1" target="_blank" style="display: inline-block;">
-                <img
-                    src="https://img.shields.io/badge/Donate-PayPal-blue.svg?style=flat-square&logo=paypal" 
-                    align="center"
-                />
-            </a></div>
+    <img src="https://komarev.com/ghpvc/?username=adrianbl1&&style=flat-square" align="center" />
+    <a href="https://paypal.me/adrianbl1" target="_blank" style="display: inline-block;">
+        <img src="https://img.shields.io/badge/Donate-PayPal-blue.svg?style=flat-square&logo=paypal" align="center" />
+    </a>
+</div>
 <br />
 
 <!---
